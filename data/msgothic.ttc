@@ -36,6 +36,27 @@ Offset Table
 20. 'vhea' - chksm = 0x01DF57DE, off = 0x00876BFC, len =       36
 21. 'vmtx' - chksm = 0x90E1A0B4, off = 0x00876C20, len =    89160
 
+'head' Table - Font Header
+--------------------------
+Size = 54 bytes (expecting 54 bytes)
+  'head' version:      1.0
+  fontRevision:        5.1
+  checkSumAdjustment:  0xA500DCF7
+  magicNumber:         0x5F0F3CF5
+  flags:               0x000B- baseline(y)=0 - lsb(x)=0 - int ppem 
+  unitsPerEm:          256
+  created:             Tue Jan 13 14:41:10 2009
+  modified:            Fri Apr 20 08:26:13 2012
+  xMin:                -250
+  yMin:                -35
+  xMax:                255
+  yMax:                220
+  macStyle bits:       0x0000
+  lowestRecPPEM:       25
+  fontDirectionHint:   2
+  indexToLocFormat:    1
+  glyphDataFormat:     0
+
 'OS/2' Table - OS/2 and Windows Metrics
 ---------------------------------------
 Size = 96 bytes (expecting 96 bytes)

@@ -1,5 +1,24 @@
 {
   "Ahem.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.0",
+      "checkSumAdjustment": "0x12175167",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "1000",
+      "created": "Tue May 25 12:56:09 1999",
+      "modified": "Sat Mar 04 01:14:01 2006",
+      "xMin": "0",
+      "yMin": "-200",
+      "xMax": "1000",
+      "yMax": "800",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "3",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "1000",
@@ -41,6 +60,25 @@
     }
   },
   "arial.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0xFD9BA091",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 07 06:54:50 1990",
+      "modified": "Thu Jun 11 05:54:21 2015",
+      "xMin": "-1361",
+      "yMin": "-665",
+      "xMax": "4096",
+      "yMax": "2129",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "904",
@@ -82,6 +120,25 @@
     }
   },
   "arialbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0x807C30E3",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 07 08:24:13 1990",
+      "modified": "Thu Jun 11 05:54:21 2015",
+      "xMin": "-1286",
+      "yMin": "-771",
+      "xMax": "4096",
+      "yMax": "2162",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "980",
@@ -123,6 +180,25 @@
     }
   },
   "arialbi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0x37B34CAE",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Oct 30 04:12:54 1990",
+      "modified": "Thu Jun 11 05:54:22 2015",
+      "xMin": "-1146",
+      "yMin": "-771",
+      "xMax": "2847",
+      "yMax": "2084",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "980",
@@ -164,6 +240,25 @@
     }
   },
   "ariali.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0x931CB461",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Nov 24 05:12:47 1990",
+      "modified": "Thu Jun 11 05:54:23 2015",
+      "xMin": "-1059",
+      "yMin": "-665",
+      "xMax": "2783",
+      "yMax": "2043",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "904",
@@ -205,6 +300,25 @@
     }
   },
   "ariblk.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.2",
+      "checkSumAdjustment": "0xAD7BFA27",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 22 13:00:52 1991",
+      "modified": "Tue May 10 03:17:56 2016",
+      "xMin": "-397",
+      "yMin": "-628",
+      "xMax": "3456",
+      "yMax": "2219",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "11",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1131",
@@ -246,6 +360,25 @@
     }
   },
   "calibri.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x3243E5C1",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 28 03:05:00 2003",
+      "modified": "Wed Sep 21 02:30:16 2016",
+      "xMin": "-1030",
+      "yMin": "-640",
+      "xMax": "2540",
+      "yMax": "2102",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1067",
@@ -287,6 +420,25 @@
     }
   },
   "calibrib.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x628B29A0",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 28 03:05:00 2003",
+      "modified": "Wed Sep 21 02:30:22 2016",
+      "xMin": "-1062",
+      "yMin": "-715",
+      "xMax": "2586",
+      "yMax": "2128",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1098",
@@ -328,6 +480,25 @@
     }
   },
   "calibrii.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x2B70C4F8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 28 03:05:00 2003",
+      "modified": "Wed Sep 21 02:29:52 2016",
+      "xMin": "-1484",
+      "yMin": "-565",
+      "xMax": "2580",
+      "yMax": "2102",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1067",
@@ -369,6 +540,25 @@
     }
   },
   "calibril.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x39E92839",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Apr 27 09:04:00 2011",
+      "modified": "Wed Sep 21 02:30:04 2016",
+      "xMin": "-1047",
+      "yMin": "-550",
+      "xMax": "2680",
+      "yMax": "1950",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1065",
@@ -410,6 +600,25 @@
     }
   },
   "calibrili.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x441220E5",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Apr 27 09:04:00 2011",
+      "modified": "Wed Sep 21 02:30:10 2016",
+      "xMin": "-1249",
+      "yMin": "-550",
+      "xMax": "2528",
+      "yMax": "1950",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1067",
@@ -451,6 +660,25 @@
     }
   },
   "calibriz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0xEEA9B0C4",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 28 03:05:00 2003",
+      "modified": "Wed Sep 21 02:29:58 2016",
+      "xMin": "-1416",
+      "yMin": "-627",
+      "xMax": "2723",
+      "yMax": "2128",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1099",
@@ -492,6 +720,25 @@
     }
   },
   "cambria.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x2C5F3D17",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 01 01:20:13 2002",
+      "modified": "Wed Feb 03 04:20:11 2016",
+      "xMin": "-3020",
+      "yMin": "-5046",
+      "xMax": "5873",
+      "yMax": "6383",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1260",
@@ -533,6 +780,25 @@
     }
   },
   "cambriab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x7E2AE321",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 01 01:20:13 2002",
+      "modified": "Wed Feb 03 04:20:16 2016",
+      "xMin": "-2273",
+      "yMin": "-612",
+      "xMax": "2811",
+      "yMax": "2144",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1228",
@@ -574,6 +840,25 @@
     }
   },
   "cambriai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xAFAE7F57",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 01 01:20:13 2002",
+      "modified": "Wed Feb 03 04:20:21 2016",
+      "xMin": "-2263",
+      "yMin": "-571",
+      "xMax": "2503",
+      "yMax": "2145",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1111",
@@ -615,6 +900,25 @@
     }
   },
   "cambriaz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x462B75B0",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 01 01:20:13 2002",
+      "modified": "Wed Feb 03 04:20:32 2016",
+      "xMin": "-2273",
+      "yMin": "-612",
+      "xMax": "2822",
+      "yMax": "2144",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1198",
@@ -656,6 +960,25 @@
     }
   },
   "Candara.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0xA42C580C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Feb 03 23:56:06 2004",
+      "modified": "Fri Oct 17 06:36:23 2008",
+      "xMin": "-959",
+      "yMin": "-581",
+      "xMax": "2284",
+      "yMax": "1950",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1068",
@@ -697,6 +1020,25 @@
     }
   },
   "Candarab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x7B31A5BE",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Feb 03 23:56:06 2004",
+      "modified": "Fri Oct 17 06:36:26 2008",
+      "xMin": "-1016",
+      "yMin": "-569",
+      "xMax": "2376",
+      "yMax": "1950",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1082",
@@ -738,6 +1080,25 @@
     }
   },
   "Candarai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0xF8243CC7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Feb 03 23:56:03 2004",
+      "modified": "Fri Oct 17 06:36:29 2008",
+      "xMin": "-824",
+      "yMin": "-580",
+      "xMax": "2194",
+      "yMax": "1950",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1031",
@@ -779,6 +1140,25 @@
     }
   },
   "Candaraz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0xA74263E5",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Feb 03 23:56:05 2004",
+      "modified": "Fri Oct 17 06:36:32 2008",
+      "xMin": "-919",
+      "yMin": "-567",
+      "xMax": "2248",
+      "yMax": "1950",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1059",
@@ -820,6 +1200,25 @@
     }
   },
   "comic.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x8F49CFEC",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0018- int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 09 04:30:03 1995",
+      "modified": "Tue May 10 07:36:06 2016",
+      "xMin": "-692",
+      "yMin": "-639",
+      "xMax": "5872",
+      "yMax": "2257",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "959",
@@ -861,6 +1260,25 @@
     }
   },
   "comicbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xBC476EFC",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001A- lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Dec 30 02:31:06 1994",
+      "modified": "Tue May 10 07:36:06 2016",
+      "xMin": "-690",
+      "yMin": "-621",
+      "xMax": "5872",
+      "yMax": "2257",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1014",
@@ -902,6 +1320,25 @@
     }
   },
   "comici.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xB595A67C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Nov 18 01:25:10 2009",
+      "modified": "Tue May 10 07:08:49 2016",
+      "xMin": "-719",
+      "yMin": "-621",
+      "xMax": "6120",
+      "yMax": "2257",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1325",
@@ -943,6 +1380,25 @@
     }
   },
   "comicz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x282AE163",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Nov 18 01:20:29 2009",
+      "modified": "Tue May 10 07:22:35 2016",
+      "xMin": "-759",
+      "yMin": "-621",
+      "xMax": "6120",
+      "yMax": "2257",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1343",
@@ -984,6 +1440,25 @@
     }
   },
   "consola.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x1890C89E",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 21 18:30:18 2003",
+      "modified": "Thu Mar 17 03:34:15 2016",
+      "xMin": "-885",
+      "yMin": "-619",
+      "xMax": "1387",
+      "yMax": "2071",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1126",
@@ -1025,6 +1500,25 @@
     }
   },
   "consolab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xF9B2BC91",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 21 18:30:16 2003",
+      "modified": "Thu Mar 17 03:34:19 2016",
+      "xMin": "-975",
+      "yMin": "-607",
+      "xMax": "1434",
+      "yMax": "1984",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1126",
@@ -1066,6 +1560,25 @@
     }
   },
   "consolai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x6011C62B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 21 18:30:19 2003",
+      "modified": "Thu Mar 17 03:34:23 2016",
+      "xMin": "-749",
+      "yMin": "-533",
+      "xMax": "1441",
+      "yMax": "2071",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1126",
@@ -1107,6 +1620,25 @@
     }
   },
   "consolaz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x551B381B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 21 18:30:14 2003",
+      "modified": "Thu Mar 17 06:39:00 2016",
+      "xMin": "-774",
+      "yMin": "-527",
+      "xMax": "1474",
+      "yMax": "2176",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1126",
@@ -1148,6 +1680,25 @@
     }
   },
   "constan.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.9",
+      "checkSumAdjustment": "0xE155A459",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Dec 02 23:33:09 2003",
+      "modified": "Tue Dec 11 02:31:53 2012",
+      "xMin": "-934",
+      "yMin": "-513",
+      "xMax": "2395",
+      "yMax": "2088",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1110",
@@ -1189,6 +1740,25 @@
     }
   },
   "constanb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.9",
+      "checkSumAdjustment": "0xBA86150C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 05 23:42:36 2003",
+      "modified": "Thu Jan 29 07:52:35 2009",
+      "xMin": "-976",
+      "yMin": "-515",
+      "xMax": "2697",
+      "yMax": "2109",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1176",
@@ -1230,6 +1800,25 @@
     }
   },
   "constani.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.9",
+      "checkSumAdjustment": "0xFABCC3CF",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 05 23:42:36 2003",
+      "modified": "Thu Jan 29 07:52:39 2009",
+      "xMin": "-838",
+      "yMin": "-508",
+      "xMax": "2409",
+      "yMax": "2091",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1093",
@@ -1271,6 +1860,25 @@
     }
   },
   "constanz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.9",
+      "checkSumAdjustment": "0x763FFE4D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 05 23:42:36 2003",
+      "modified": "Thu Jan 29 07:52:43 2009",
+      "xMin": "-839",
+      "yMin": "-509",
+      "xMax": "2565",
+      "yMax": "2114",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1166",
@@ -1312,6 +1920,25 @@
     }
   },
   "corbel.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0xC29A927F",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Aug 14 04:28:00 2003",
+      "modified": "Fri Oct 17 08:37:51 2008",
+      "xMin": "-1133",
+      "yMin": "-490",
+      "xMax": "2273",
+      "yMax": "1949",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1084",
@@ -1353,6 +1980,25 @@
     }
   },
   "corbelb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x80E3EE63",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jul 10 09:58:00 2003",
+      "modified": "Fri Oct 17 08:37:51 2008",
+      "xMin": "-1138",
+      "yMin": "-490",
+      "xMax": "2365",
+      "yMax": "1950",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1131",
@@ -1394,6 +2040,25 @@
     }
   },
   "corbeli.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x18366819",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jul 10 09:58:00 2003",
+      "modified": "Fri Oct 17 08:37:50 2008",
+      "xMin": "-1038",
+      "yMin": "-490",
+      "xMax": "2325",
+      "yMax": "1950",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1055",
@@ -1435,6 +2100,25 @@
     }
   },
   "corbelz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0xABDD6723",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jul 10 09:58:00 2003",
+      "modified": "Fri Oct 17 08:37:51 2008",
+      "xMin": "-1012",
+      "yMin": "-490",
+      "xMax": "2446",
+      "yMax": "1950",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1111",
@@ -1476,6 +2160,25 @@
     }
   },
   "cour.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0x2A9710C8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0809- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Wed Sep 26 11:24:33 1990",
+      "modified": "Thu Jun 11 05:54:23 2015",
+      "xMin": "-249",
+      "yMin": "-1392",
+      "xMax": "1275",
+      "yMax": "2091",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1229",
@@ -1517,6 +2220,25 @@
     }
   },
   "courbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0xCEDAC6E5",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0809- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 01 23:20:49 1990",
+      "modified": "Thu Jun 11 05:54:24 2015",
+      "xMin": "-393",
+      "yMin": "-1455",
+      "xMax": "1437",
+      "yMax": "2501",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1229",
@@ -1558,6 +2280,25 @@
     }
   },
   "courbi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0x65EC7AF8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0809- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 01 12:23:12 1990",
+      "modified": "Thu Jun 11 05:54:25 2015",
+      "xMin": "-210",
+      "yMin": "-772",
+      "xMax": "1719",
+      "yMax": "2056",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1229",
@@ -1599,6 +2340,25 @@
     }
   },
   "couri.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.9",
+      "checkSumAdjustment": "0xD9B138C4",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0809- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Mon Oct 29 07:07:38 1990",
+      "modified": "Thu Jun 11 05:54:25 2015",
+      "xMin": "-138",
+      "yMin": "-570",
+      "xMax": "1639",
+      "yMax": "2049",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1229",
@@ -1640,6 +2400,25 @@
     }
   },
   "Deng.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x00B528B6",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sun Mar 20 19:33:37 2011",
+      "modified": "Fri Jan 08 09:00:09 2016",
+      "xMin": "-289",
+      "yMin": "-519",
+      "xMax": "2358",
+      "yMax": "1953",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "20",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "916",
@@ -1681,6 +2460,25 @@
     }
   },
   "Dengb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x0895136C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Aug 01 01:23:03 2012",
+      "modified": "Fri Jan 08 09:00:20 2016",
+      "xMin": "-355",
+      "yMin": "-482",
+      "xMax": "2451",
+      "yMax": "2011",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "20",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "934",
@@ -1722,6 +2520,25 @@
     }
   },
   "Dengl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x2BAF67D5",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sun Mar 20 19:33:13 2011",
+      "modified": "Fri Jan 08 09:00:31 2016",
+      "xMin": "-296",
+      "yMin": "-519",
+      "xMax": "2357",
+      "yMax": "1919",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "20",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "916",
@@ -1763,6 +2580,25 @@
     }
   },
   "ebrima.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x04A42432",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Oct 09 14:08:07 2007",
+      "modified": "Sat May 23 03:57:09 2015",
+      "xMin": "-1070",
+      "yMin": "-654",
+      "xMax": "3409",
+      "yMax": "2181",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1237",
@@ -1804,6 +2640,25 @@
     }
   },
   "ebrimabd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xD8A514E0",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Apr 04 17:01:56 2008",
+      "modified": "Sat May 23 03:57:10 2015",
+      "xMin": "-1124",
+      "yMin": "-654",
+      "xMax": "3749",
+      "yMax": "2248",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1340",
@@ -1845,6 +2700,25 @@
     }
   },
   "framd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x1AB2842D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Oct 18 06:11:40 1995",
+      "modified": "Wed Oct 25 02:51:17 2006",
+      "xMin": "-441",
+      "yMin": "-628",
+      "xMax": "2239",
+      "yMax": "1949",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "878",
@@ -1881,6 +2755,25 @@
     }
   },
   "framdit.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xE693E327",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Oct 18 06:18:50 1995",
+      "modified": "Sat Sep 30 08:11:35 2006",
+      "xMin": "-327",
+      "yMin": "-628",
+      "xMax": "2144",
+      "yMax": "1948",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "876",
@@ -1917,6 +2810,25 @@
     }
   },
   "Gabriola.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.9",
+      "checkSumAdjustment": "0x2DEDE844",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "4096",
+      "created": "Tue Jan 01 19:13:48 2008",
+      "modified": "Tue Nov 24 02:40:28 2009",
+      "xMin": "-6863",
+      "yMin": "-2764",
+      "xMax": "11546",
+      "yMax": "4754",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "2017",
@@ -1958,6 +2870,25 @@
     }
   },
   "gadugi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0xE041922F",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Wed Jun 08 02:52:51 2016",
+      "xMin": "-312",
+      "yMin": "-486",
+      "xMax": "2592",
+      "yMax": "1958",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1156",
@@ -1999,6 +2930,25 @@
     }
   },
   "gadugib.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0xCC4BC592",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Wed Jun 08 03:02:58 2016",
+      "xMin": "-203",
+      "yMin": "-489",
+      "xMax": "2752",
+      "yMax": "1958",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1406",
@@ -2040,6 +2990,25 @@
     }
   },
   "georgia.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x1BB5B846",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Feb 10 08:12:19 1996",
+      "modified": "Wed May 04 06:11:44 2016",
+      "xMin": "-355",
+      "yMin": "-621",
+      "xMax": "2389",
+      "yMax": "1945",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "901",
@@ -2081,6 +3050,25 @@
     }
   },
   "georgiab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x128EC315",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Apr 05 10:18:15 1996",
+      "modified": "Wed May 04 06:11:45 2016",
+      "xMin": "-390",
+      "yMin": "-621",
+      "xMax": "2653",
+      "yMax": "2025",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1051",
@@ -2122,6 +3110,25 @@
     }
   },
   "georgiai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x7E45518C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jul 11 01:55:21 1996",
+      "modified": "Wed May 04 06:11:44 2016",
+      "xMin": "-401",
+      "yMin": "-621",
+      "xMax": "2451",
+      "yMax": "1998",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "920",
@@ -2163,6 +3170,25 @@
     }
   },
   "georgiaz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.6",
+      "checkSumAdjustment": "0x32AA09CA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 20 09:12:39 1996",
+      "modified": "Wed May 04 06:11:44 2016",
+      "xMin": "-496",
+      "yMin": "-621",
+      "xMax": "2775",
+      "yMax": "2037",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1073",
@@ -2204,6 +3230,25 @@
     }
   },
   "himalaya.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.2",
+      "checkSumAdjustment": "0xFD208E6D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 25 13:54:00 2005",
+      "modified": "Fri May 13 11:30:31 2016",
+      "xMin": "-957",
+      "yMin": "-837",
+      "xMax": "1968",
+      "yMax": "1212",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "0",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "840",
@@ -2245,6 +3290,25 @@
     }
   },
   "impact.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x8C913F3A",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jul 23 01:04:10 1992",
+      "modified": "Sat Mar 26 08:22:48 2011",
+      "xMin": "-265",
+      "yMin": "-677",
+      "xMax": "2894",
+      "yMax": "2392",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1222",
@@ -2285,8 +3349,26 @@
       "usMaxLookups": "5"
     }
   },
-  "index.json": {},
   "javatext.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0xA0ADD35C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Jan 02 19:40:50 2013",
+      "modified": "Fri May 13 10:31:38 2016",
+      "xMin": "-3330",
+      "yMin": "-2089",
+      "xMax": "5154",
+      "yMax": "2470",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1665",
@@ -2328,6 +3410,25 @@
     }
   },
   "kaiu.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xE46E4889",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0003- baseline(y)=0 - lsb(x)=0",
+      "unitsPerEm": "1024",
+      "created": "Fri Jan 01 01:00:00 1993",
+      "modified": "Sat Sep 30 08:11:51 2006",
+      "xMin": "0",
+      "yMin": "-204",
+      "xMax": "1024",
+      "yMax": "820",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "25",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "512",
@@ -2364,6 +3465,25 @@
     }
   },
   "LastResort.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.0",
+      "checkSumAdjustment": "0xC5609DA1",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0010- nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Date past 1/1/2040: 0x180B0BAA,0xB8A9B2B6",
+      "modified": "Thu Jan 10 14:10:11 2008",
+      "xMin": "195",
+      "yMin": "-420",
+      "xMax": "2155",
+      "yMax": "1540",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "3",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "2350",
@@ -2405,6 +3525,25 @@
     }
   },
   "LeelaUIb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xB118A991",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu May 21 01:08:23 2015",
+      "xMin": "-1595",
+      "yMin": "-489",
+      "xMax": "3722",
+      "yMax": "2188",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1208",
@@ -2446,6 +3585,25 @@
     }
   },
   "LeelawUI.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xBE046934",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu May 21 01:08:25 2015",
+      "xMin": "-1646",
+      "yMin": "-486",
+      "xMax": "3139",
+      "yMax": "2149",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1103",
@@ -2487,6 +3645,25 @@
     }
   },
   "LeelUIsl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xE5B0C185",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu May 21 01:08:26 2015",
+      "xMin": "-1646",
+      "yMin": "-491",
+      "xMax": "3105",
+      "yMax": "2139",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1094",
@@ -2528,6 +3705,25 @@
     }
   },
   "lucon.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x829171F6",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 19 12:14:37 1993",
+      "modified": "Sat Sep 30 08:11:56 2006",
+      "xMin": "0",
+      "yMin": "-432",
+      "xMax": "1291",
+      "yMax": "1616",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1234",
@@ -2564,6 +3760,25 @@
     }
   },
   "l_10646.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x841A1B4A",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Mar 20 06:55:54 1993",
+      "modified": "Sat Sep 30 08:11:57 2006",
+      "xMin": "-1259",
+      "yMin": "-901",
+      "xMax": "2835",
+      "yMax": "2344",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1003",
@@ -2600,6 +3815,25 @@
     }
   },
   "malgun.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.7",
+      "checkSumAdjustment": "0xF1DD5D16",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x2009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 11 10:21:48 2005",
+      "modified": "Tue Apr 19 06:54:50 2016",
+      "xMin": "-2000",
+      "yMin": "-508",
+      "xMax": "2455",
+      "yMax": "1907",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "949",
@@ -2641,6 +3875,25 @@
     }
   },
   "malgunbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.6",
+      "checkSumAdjustment": "0x2C6A6423",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x2009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 11 10:21:00 2005",
+      "modified": "Sat May 23 03:57:19 2015",
+      "xMin": "-2077",
+      "yMin": "-503",
+      "xMax": "2533",
+      "yMax": "1958",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "1000",
@@ -2682,6 +3935,25 @@
     }
   },
   "malgunsl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.2",
+      "checkSumAdjustment": "0xBBFF5F44",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Sat Mar 23 08:03:46 2013",
+      "modified": "Tue Apr 19 06:25:23 2016",
+      "xMin": "-340",
+      "yMin": "-505",
+      "xMax": "2434",
+      "yMax": "1937",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "2009",
@@ -2723,6 +3995,25 @@
     }
   },
   "marlett.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xE5A4290B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Mon Sep 26 22:00:00 1994",
+      "modified": "Tue Oct 03 14:18:12 2006",
+      "xMin": "-224",
+      "yMin": "-425",
+      "xMax": "2048",
+      "yMax": "2048",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "6",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1964",
@@ -2759,6 +4050,25 @@
     }
   },
   "meiryo.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.3",
+      "checkSumAdjustment": "0x09ACB922",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x200B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 16 07:33:55 1997",
+      "modified": "Thu Jun 16 07:24:31 2016",
+      "xMin": "-2016",
+      "yMin": "-901",
+      "xMax": "3732",
+      "yMax": "2171",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1958",
@@ -2800,6 +4110,25 @@
     }
   },
   "meiryob.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.3",
+      "checkSumAdjustment": "0x17274EFA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x200B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 16 07:33:55 1997",
+      "modified": "Thu Jun 16 07:27:17 2016",
+      "xMin": "-2016",
+      "yMin": "-901",
+      "xMax": "4171",
+      "yMax": "2188",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1967",
@@ -2841,6 +4170,25 @@
     }
   },
   "micross.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x8C9708C8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Fri May 13 04:57:39 2016",
+      "xMin": "-1188",
+      "yMin": "-526",
+      "xMax": "3017",
+      "yMax": "2055",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "901",
@@ -2882,6 +4230,25 @@
     }
   },
   "mingliu.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xB74AAF1F",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0003- baseline(y)=0 - lsb(x)=0",
+      "unitsPerEm": "1024",
+      "created": "Wed May 14 12:49:01 2003",
+      "modified": "Thu Apr 30 05:39:11 2015",
+      "xMin": "0",
+      "yMin": "-204",
+      "xMax": "1023",
+      "yMax": "820",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "4",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "512",
@@ -2923,6 +4290,25 @@
     }
   },
   "mingliub.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x434AB9A8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0003- baseline(y)=0 - lsb(x)=0",
+      "unitsPerEm": "1024",
+      "created": "Fri Jul 05 19:23:24 2002",
+      "modified": "Tue Nov 02 06:41:58 2010",
+      "xMin": "0",
+      "yMin": "-204",
+      "xMax": "1020",
+      "yMax": "820",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "4",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "512",
@@ -2964,6 +4350,25 @@
     }
   },
   "mmrtext.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x8073371B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 30 19:15:19 2011",
+      "modified": "Sat May 23 03:57:22 2015",
+      "xMin": "-1746",
+      "yMin": "-1502",
+      "xMax": "4569",
+      "yMax": "2122",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1126",
@@ -3005,6 +4410,25 @@
     }
   },
   "mmrtextb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0xF8335135",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 30 19:15:19 2011",
+      "modified": "Sat May 23 03:57:23 2015",
+      "xMin": "-1840",
+      "yMin": "-1502",
+      "xMax": "4547",
+      "yMax": "2131",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1185",
@@ -3046,6 +4470,25 @@
     }
   },
   "monbaiti.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0x533655ED",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 01 21:00:00 1970",
+      "modified": "Fri May 13 11:28:57 2016",
+      "xMin": "-157",
+      "yMin": "-446",
+      "xMax": "2066",
+      "yMax": "1773",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "20",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "881",
@@ -3087,6 +4530,25 @@
     }
   },
   "msgothic.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xA500DCF7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Tue Jan 13 14:41:10 2009",
+      "modified": "Fri Apr 20 08:26:13 2012",
+      "xMin": "-250",
+      "yMin": "-35",
+      "xMax": "255",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "25",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -3128,6 +4590,25 @@
     }
   },
   "msjh.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.1",
+      "checkSumAdjustment": "0xDA81C743",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x2019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 11 10:21:48 2005",
+      "modified": "Thu Jun 16 08:11:59 2016",
+      "xMin": "-345",
+      "yMin": "-535",
+      "xMax": "2584",
+      "yMax": "2036",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "959",
@@ -3169,6 +4650,25 @@
     }
   },
   "msjhbd.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.1",
+      "checkSumAdjustment": "0xB89639E8",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x2019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 11 10:21:48 2005",
+      "modified": "Thu Jun 16 08:13:49 2016",
+      "xMin": "-189",
+      "yMin": "-535",
+      "xMax": "2622",
+      "yMax": "2036",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "987",
@@ -3210,6 +4710,25 @@
     }
   },
   "msjhl.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.1",
+      "checkSumAdjustment": "0x63E85B64",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 22 06:46:04 2013",
+      "modified": "Thu Jun 16 08:16:14 2016",
+      "xMin": "-358",
+      "yMin": "-532",
+      "xMax": "2548",
+      "yMax": "2052",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "2024",
@@ -3251,6 +4770,25 @@
     }
   },
   "msmincho.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x4111DE4F",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Mon Jul 03 10:54:52 2006",
+      "modified": "Fri Apr 20 08:26:27 2012",
+      "xMin": "-250",
+      "yMin": "-35",
+      "xMax": "255",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "25",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -3292,6 +4830,25 @@
     }
   },
   "msyh.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x73FEC30D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x201B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu Apr 21 01:52:32 2016",
+      "xMin": "-324",
+      "yMin": "-523",
+      "xMax": "2600",
+      "yMax": "2122",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "987",
@@ -3333,6 +4890,25 @@
     }
   },
   "msyhbd.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x3E45F993",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x201B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu Apr 21 01:35:05 2016",
+      "xMin": "-232",
+      "yMin": "-536",
+      "xMax": "2736",
+      "yMax": "2167",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1040",
@@ -3374,6 +4950,25 @@
     }
   },
   "msyhl.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x799FB41C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Thu Apr 21 01:47:58 2016",
+      "xMin": "-369",
+      "yMin": "-536",
+      "xMax": "2546",
+      "yMax": "2099",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "975",
@@ -3415,6 +5010,25 @@
     }
   },
   "msyi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0xE2D45185",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sun Mar 31 20:42:03 2002",
+      "modified": "Sat May 23 03:57:24 2015",
+      "xMin": "-290",
+      "yMin": "-341",
+      "xMax": "1830",
+      "yMax": "1748",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "20",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1324",
@@ -3456,6 +5070,25 @@
     }
   },
   "mvboli.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.8",
+      "checkSumAdjustment": "0x498D86CF",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 30 01:51:34 2000",
+      "modified": "Wed May 13 13:54:18 2015",
+      "xMin": "-480",
+      "yMin": "-610",
+      "xMax": "2460",
+      "yMax": "2102",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1151",
@@ -3497,6 +5130,25 @@
     }
   },
   "Nirmala.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.3",
+      "checkSumAdjustment": "0xD0FEB0DA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sun Apr 03 04:02:12 2011",
+      "modified": "Sat Feb 20 08:32:16 2016",
+      "xMin": "-2244",
+      "yMin": "-672",
+      "xMax": "5604",
+      "yMax": "2387",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1991",
@@ -3538,6 +5190,25 @@
     }
   },
   "NirmalaB.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.3",
+      "checkSumAdjustment": "0x522181EA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Apr 22 04:24:06 2011",
+      "modified": "Sat Feb 20 08:32:20 2016",
+      "xMin": "-2537",
+      "yMin": "-676",
+      "xMax": "6076",
+      "yMax": "2411",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "2178",
@@ -3579,6 +5250,25 @@
     }
   },
   "NirmalaS.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.3",
+      "checkSumAdjustment": "0x4C4781E6",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue May 15 20:32:08 2012",
+      "modified": "Sat Feb 20 08:32:23 2016",
+      "xMin": "-2244",
+      "yMin": "-682",
+      "xMax": "5603",
+      "yMax": "2377",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1094",
@@ -3620,6 +5310,25 @@
     }
   },
   "ntailu.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0x0121BDA0",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 28 14:07:00 2007",
+      "modified": "Sat May 23 03:57:25 2015",
+      "xMin": "-312",
+      "yMin": "-780",
+      "xMax": "2398",
+      "yMax": "1899",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1197",
@@ -3661,6 +5370,25 @@
     }
   },
   "ntailub.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0x00725B35",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 28 14:07:00 2007",
+      "modified": "Sat May 23 03:57:25 2015",
+      "xMin": "-219",
+      "yMin": "-780",
+      "xMax": "2482",
+      "yMax": "1892",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1271",
@@ -3702,6 +5430,25 @@
     }
   },
   "pala.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xCCFAA9FC",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jan 30 03:11:20 1996",
+      "modified": "Fri Jun 28 14:33:09 2013",
+      "xMin": "-348",
+      "yMin": "-597",
+      "xMax": "2907",
+      "yMax": "2150",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "912",
@@ -3743,6 +5490,25 @@
     }
   },
   "palab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x30B9E044",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jan 30 08:52:32 1996",
+      "modified": "Fri Jun 28 14:33:09 2013",
+      "xMin": "-356",
+      "yMin": "-613",
+      "xMax": "2960",
+      "yMax": "2150",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "940",
@@ -3784,6 +5550,25 @@
     }
   },
   "palabi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x5EDD65F6",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jan 30 05:39:46 1996",
+      "modified": "Fri Jun 28 14:33:08 2013",
+      "xMin": "-320",
+      "yMin": "-596",
+      "xMax": "2673",
+      "yMax": "2150",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "915",
@@ -3825,6 +5610,25 @@
     }
   },
   "palai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xBF33F025",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jan 30 04:49:29 1996",
+      "modified": "Fri Jun 28 14:33:08 2013",
+      "xMin": "-331",
+      "yMin": "-596",
+      "xMax": "2557",
+      "yMax": "2155",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "821",
@@ -3866,6 +5670,25 @@
     }
   },
   "phagspa.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0x03DD4C2D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Nov 25 16:07:35 2006",
+      "modified": "Sat May 23 03:57:27 2015",
+      "xMin": "-701",
+      "yMin": "-482",
+      "xMax": "3197",
+      "yMax": "2138",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1557",
@@ -3907,6 +5730,25 @@
     }
   },
   "phagspab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0xD2CD0A76",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Nov 25 16:07:35 2006",
+      "modified": "Sat May 23 03:57:27 2015",
+      "xMin": "-701",
+      "yMin": "-505",
+      "xMax": "3278",
+      "yMax": "2188",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1604",
@@ -3948,6 +5790,25 @@
     }
   },
   "segmdl2.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.6",
+      "checkSumAdjustment": "0x2617E7FE",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 26 17:00:00 2006",
+      "modified": "Sat Jun 04 03:13:26 2016",
+      "xMin": "-1",
+      "yMin": "-2",
+      "xMax": "5240",
+      "yMax": "2048",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "2104",
@@ -3989,6 +5850,25 @@
     }
   },
   "segoepr.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x7E3BA94A",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Jun 30 22:37:10 2004",
+      "modified": "Sat Feb 21 04:57:00 2009",
+      "xMin": "-365",
+      "yMin": "-1014",
+      "xMax": "2825",
+      "yMax": "2558",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1314",
@@ -4030,6 +5910,25 @@
     }
   },
   "segoeprb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x9716F82D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Jun 30 22:46:40 2004",
+      "modified": "Thu Mar 05 02:21:12 2009",
+      "xMin": "-386",
+      "yMin": "-1014",
+      "xMax": "2848",
+      "yMax": "2600",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1312",
@@ -4071,6 +5970,25 @@
     }
   },
   "segoesc.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xD2158E19",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jun 29 18:03:27 2004",
+      "modified": "Thu May 12 04:18:44 2016",
+      "xMin": "-365",
+      "yMin": "-1014",
+      "xMax": "3106",
+      "yMax": "2378",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1394",
@@ -4112,6 +6030,25 @@
     }
   },
   "segoescb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x763D7236",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Oct 27 19:27:28 2004",
+      "modified": "Thu May 12 04:21:01 2016",
+      "xMin": "-384",
+      "yMin": "-1014",
+      "xMax": "2947",
+      "yMax": "2381",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1390",
@@ -4153,6 +6090,25 @@
     }
   },
   "segoeui.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0x56C7605D",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Sat Aug 29 01:48:05 2015",
+      "xMin": "-884",
+      "yMin": "-842",
+      "xMax": "4094",
+      "yMax": "2374",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1103",
@@ -4194,6 +6150,25 @@
     }
   },
   "segoeuib.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0x8A151DB2",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Sat Aug 29 01:48:08 2015",
+      "xMin": "-980",
+      "yMin": "-882",
+      "xMax": "4218",
+      "yMax": "2375",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1208",
@@ -4235,6 +6210,25 @@
     }
   },
   "segoeuii.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x2389A4A7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 09 04:30:03 1995",
+      "modified": "Sat Aug 29 01:47:53 2015",
+      "xMin": "-937",
+      "yMin": "-541",
+      "xMax": "2913",
+      "yMax": "2374",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1113",
@@ -4276,6 +6270,25 @@
     }
   },
   "segoeuil.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0xEDE5A2EF",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Sat Aug 29 01:49:04 2015",
+      "xMin": "-890",
+      "yMin": "-735",
+      "xMax": "4094",
+      "yMax": "2375",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1080",
@@ -4317,6 +6330,25 @@
     }
   },
   "segoeuisl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0x9A9D9DFC",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Mar 06 17:35:11 2009",
+      "modified": "Sat Aug 29 01:49:08 2015",
+      "xMin": "-888",
+      "yMin": "-804",
+      "xMax": "4094",
+      "yMax": "2375",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1094",
@@ -4358,6 +6390,25 @@
     }
   },
   "segoeuiz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x88A63684",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Nov 09 04:30:03 1995",
+      "modified": "Sat Aug 29 01:48:01 2015",
+      "xMin": "-937",
+      "yMin": "-590",
+      "xMax": "3141",
+      "yMax": "2384",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1206",
@@ -4399,6 +6450,25 @@
     }
   },
   "seguibl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "2.0",
+      "checkSumAdjustment": "0xADCB0D27",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Apr 26 03:16:56 2013",
+      "modified": "Sat May 11 08:44:28 2013",
+      "xMin": "-936",
+      "yMin": "-514",
+      "xMax": "3027",
+      "yMax": "2210",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1257",
@@ -4440,6 +6510,25 @@
     }
   },
   "seguibli.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "2.0",
+      "checkSumAdjustment": "0xF41C432E",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Wed Feb 13 05:46:44 2013",
+      "modified": "Sat May 11 08:44:27 2013",
+      "xMin": "-937",
+      "yMin": "-598",
+      "xMax": "3115",
+      "yMax": "2291",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1256",
@@ -4481,6 +6570,25 @@
     }
   },
   "seguiemj.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x5D507CDA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Wed May 11 06:05:36 2016",
+      "xMin": "-719",
+      "yMin": "-501",
+      "xMax": "3257",
+      "yMax": "1975",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "2581",
@@ -4522,6 +6630,25 @@
     }
   },
   "seguihis.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.0",
+      "checkSumAdjustment": "0x74CF2E15",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 26 17:00:00 2006",
+      "modified": "Sat May 23 05:05:23 2015",
+      "xMin": "-1830",
+      "yMin": "-1413",
+      "xMax": "9292",
+      "yMax": "3269",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1713",
@@ -4563,6 +6690,25 @@
     }
   },
   "seguili.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x7B7BE810",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 18 09:12:59 2011",
+      "modified": "Sat Aug 29 01:48:45 2015",
+      "xMin": "-911",
+      "yMin": "-541",
+      "xMax": "2873",
+      "yMax": "2375",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1078",
@@ -4604,6 +6750,25 @@
     }
   },
   "seguisb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.5",
+      "checkSumAdjustment": "0x62695386",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 26 15:03:36 2006",
+      "modified": "Sat Aug 29 01:48:23 2015",
+      "xMin": "-887",
+      "yMin": "-874",
+      "xMax": "4094",
+      "yMax": "2374",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1157",
@@ -4645,6 +6810,25 @@
     }
   },
   "seguisbi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x0BB4459C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0009- baseline(y)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Sat Nov 05 01:42:39 2011",
+      "modified": "Sat Aug 29 01:48:31 2015",
+      "xMin": "-937",
+      "yMin": "-558",
+      "xMax": "3027",
+      "yMax": "2374",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1178",
@@ -4686,6 +6870,25 @@
     }
   },
   "seguisli.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x35BC7BE7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Nov 18 02:14:28 2011",
+      "modified": "Sat Aug 29 01:48:55 2015",
+      "xMin": "-923",
+      "yMin": "-541",
+      "xMax": "2891",
+      "yMax": "2374",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1101",
@@ -4727,6 +6930,25 @@
     }
   },
   "seguisym.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.2",
+      "checkSumAdjustment": "0x8AE4FF66",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Jan 26 17:00:00 2006",
+      "modified": "Wed May 04 07:36:24 2016",
+      "xMin": "-1051",
+      "yMin": "-1616",
+      "xMax": "4017",
+      "yMax": "3070",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1444",
@@ -4768,6 +6990,25 @@
     }
   },
   "simfang.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xB702D104",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Thu Feb 12 22:30:25 2004",
+      "modified": "Wed Oct 25 00:46:12 2006",
+      "xMin": "-2",
+      "yMin": "-42",
+      "xMax": "257",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -4809,6 +7050,25 @@
     }
   },
   "simhei.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xCE413F46",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Thu Feb 05 00:38:29 2004",
+      "modified": "Sat Mar 24 04:13:14 2012",
+      "xMin": "-3",
+      "yMin": "-40",
+      "xMax": "255",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -4850,6 +7110,25 @@
     }
   },
   "simkai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x0AC9E85B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Thu Feb 05 01:41:28 2004",
+      "modified": "Wed Oct 25 00:46:31 2006",
+      "xMin": "-12",
+      "yMin": "-47",
+      "xMax": "264",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -4891,6 +7170,25 @@
     }
   },
   "simsun.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x45892F08",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Fri Aug 10 06:37:04 2001",
+      "modified": "Thu Jun 16 08:07:31 2016",
+      "xMin": "-2",
+      "yMin": "-36",
+      "xMax": "256",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -4932,6 +7230,25 @@
     }
   },
   "simsunb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x3C099CF7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000B- baseline(y)=0 - lsb(x)=0 - int ppem",
+      "unitsPerEm": "256",
+      "created": "Wed Feb 03 10:41:27 2016",
+      "modified": "Thu Mar 10 07:22:51 2016",
+      "xMin": "0",
+      "yMin": "-41",
+      "xMax": "256",
+      "yMax": "220",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "128",
@@ -4973,6 +7290,25 @@
     }
   },
   "Sitka.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x1144C092",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000D- baseline(y)=0 - optical scl - int ppem",
+      "unitsPerEm": "2200",
+      "created": "Wed Jan 09 02:24:59 2013",
+      "modified": "Thu Jun 13 07:06:43 2013",
+      "xMin": "-1192",
+      "yMin": "-665",
+      "xMax": "3189",
+      "yMax": "2516",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "5",
       "xAvgCharWidth": "1415",
@@ -5014,6 +7350,25 @@
     }
   },
   "SitkaB.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x841A44DD",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000D- baseline(y)=0 - optical scl - int ppem",
+      "unitsPerEm": "2200",
+      "created": "Thu Jan 17 02:20:45 2013",
+      "modified": "Thu Jun 13 07:37:05 2013",
+      "xMin": "-1277",
+      "yMin": "-665",
+      "xMax": "3414",
+      "yMax": "2578",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "5",
       "xAvgCharWidth": "1490",
@@ -5055,6 +7410,25 @@
     }
   },
   "SitkaI.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0xC37C71FD",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000D- baseline(y)=0 - optical scl - int ppem",
+      "unitsPerEm": "2200",
+      "created": "Wed Jan 09 02:25:40 2013",
+      "modified": "Thu Jun 13 07:26:44 2013",
+      "xMin": "-1061",
+      "yMin": "-665",
+      "xMax": "3285",
+      "yMax": "2509",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "8",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "5",
       "xAvgCharWidth": "1407",
@@ -5096,6 +7470,25 @@
     }
   },
   "SitkaZ.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.1",
+      "checkSumAdjustment": "0x77C3BC7F",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000D- baseline(y)=0 - optical scl - int ppem",
+      "unitsPerEm": "2200",
+      "created": "Wed Jan 09 02:24:59 2013",
+      "modified": "Thu Jun 13 07:34:29 2013",
+      "xMin": "-1277",
+      "yMin": "-643",
+      "xMax": "3572",
+      "yMax": "2578",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "5",
       "xAvgCharWidth": "1482",
@@ -5137,6 +7530,25 @@
     }
   },
   "sylfaen.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x2BE099AF",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Feb 20 16:16:16 1997",
+      "modified": "Sat May 14 12:01:31 2016",
+      "xMin": "-340",
+      "yMin": "-604",
+      "xMax": "2907",
+      "yMax": "2062",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "2",
       "xAvgCharWidth": "859",
@@ -5178,6 +7590,25 @@
     }
   },
   "symbol.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x2C8F1B4A",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081D- baseline(y)=0 - optical scl - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Oct 23 08:09:47 1990",
+      "modified": "Tue Oct 03 14:45:41 2006",
+      "xMin": "-1",
+      "yMin": "-450",
+      "xMax": "2279",
+      "yMax": "2059",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "11",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1229",
@@ -5214,6 +7645,25 @@
     }
   },
   "tahoma.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x601057BC",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Nov 27 08:15:40 1996",
+      "modified": "Tue May 24 05:01:28 2016",
+      "xMin": "-1228",
+      "yMin": "-858",
+      "xMax": "3793",
+      "yMax": "2118",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "910",
@@ -5255,6 +7705,25 @@
     }
   },
   "tahomabd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x93AB4086",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Dec 11 02:40:08 1996",
+      "modified": "Tue May 24 05:03:05 2016",
+      "xMin": "-1429",
+      "yMin": "-858",
+      "xMax": "4498",
+      "yMax": "2182",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1036",
@@ -5296,6 +7765,25 @@
     }
   },
   "taile.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0x06FDE76E",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Sat May 23 03:57:29 2015",
+      "xMin": "-871",
+      "yMin": "-705",
+      "xMax": "2398",
+      "yMax": "1899",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1202",
@@ -5337,6 +7825,25 @@
     }
   },
   "taileb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "6.0",
+      "checkSumAdjustment": "0xBA318B3C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Jul 19 08:30:55 1997",
+      "modified": "Sat May 23 03:57:29 2015",
+      "xMin": "-1003",
+      "yMin": "-705",
+      "xMax": "2482",
+      "yMax": "1892",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1268",
@@ -5378,6 +7885,25 @@
     }
   },
   "times.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xA0472758",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 07 06:14:42 1990",
+      "modified": "Thu May 26 04:33:25 2016",
+      "xMin": "-1164",
+      "yMin": "-628",
+      "xMax": "4190",
+      "yMax": "2129",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "821",
@@ -5419,6 +7945,25 @@
     }
   },
   "timesbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0x543008CE",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 07 07:55:02 1990",
+      "modified": "Thu May 26 04:38:07 2016",
+      "xMin": "-1143",
+      "yMin": "-671",
+      "xMax": "4096",
+      "yMax": "2162",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "874",
@@ -5460,6 +8005,25 @@
     }
   },
   "timesbi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xE86C95E2",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Sep 22 05:48:36 1990",
+      "modified": "Thu May 26 04:39:02 2016",
+      "xMin": "-1121",
+      "yMin": "-628",
+      "xMax": "2869",
+      "yMax": "2114",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "844",
@@ -5501,6 +8065,25 @@
     }
   },
   "timesi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "7.0",
+      "checkSumAdjustment": "0xDD87B7FD",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0819- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Sep 22 05:31:57 1990",
+      "modified": "Thu May 26 04:39:22 2016",
+      "xMin": "-1019",
+      "yMin": "-628",
+      "xMax": "2730",
+      "yMax": "2096",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "823",
@@ -5542,6 +8125,25 @@
     }
   },
   "trebuc.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xB1E03650",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed Mar 06 02:17:13 1996",
+      "modified": "Wed May 11 04:59:24 2016",
+      "xMin": "-1090",
+      "yMin": "-537",
+      "xMax": "2684",
+      "yMax": "2017",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "10",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "929",
@@ -5583,6 +8185,25 @@
     }
   },
   "trebucbd.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0x4A3100B5",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Mar 29 06:55:00 1996",
+      "modified": "Wed May 11 04:59:23 2016",
+      "xMin": "-1192",
+      "yMin": "-552",
+      "xMax": "2839",
+      "yMax": "2008",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "970",
@@ -5624,6 +8245,25 @@
     }
   },
   "trebucbi.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xC821AF48",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Jul 23 06:16:27 1996",
+      "modified": "Wed May 11 04:59:23 2016",
+      "xMin": "-1007",
+      "yMin": "-571",
+      "xMax": "2889",
+      "yMax": "2030",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "986",
@@ -5665,6 +8305,25 @@
     }
   },
   "trebucit.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.1",
+      "checkSumAdjustment": "0xD1A75A9B",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu May 09 06:24:26 1996",
+      "modified": "Wed May 11 04:59:24 2016",
+      "xMin": "-920",
+      "yMin": "-528",
+      "xMax": "2791",
+      "yMax": "1978",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "939",
@@ -5706,6 +8365,25 @@
     }
   },
   "verdana.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0xF9E2B270",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue Aug 23 05:01:45 1994",
+      "modified": "Thu Feb 11 04:39:39 2016",
+      "xMin": "-1146",
+      "yMin": "-621",
+      "xMax": "3119",
+      "yMax": "2152",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1041",
@@ -5747,6 +8425,25 @@
     }
   },
   "verdanab.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x5A2D95FD",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Thu Mar 14 03:29:12 1996",
+      "modified": "Wed Feb 10 08:01:17 2016",
+      "xMin": "-1126",
+      "yMin": "-621",
+      "xMax": "3496",
+      "yMax": "2195",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1163",
@@ -5788,6 +8485,25 @@
     }
   },
   "verdanai.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x8F79D590",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Tue May 14 03:16:14 1996",
+      "modified": "Sat Feb 20 08:40:28 2016",
+      "xMin": "-928",
+      "yMin": "-621",
+      "xMax": "3246",
+      "yMax": "2152",
+      "macStyle bits": "0x0002",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1041",
@@ -5829,6 +8545,25 @@
     }
   },
   "verdanaz.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.3",
+      "checkSumAdjustment": "0x42F11EE7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x001B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Wed May 22 06:43:37 1996",
+      "modified": "Sat Feb 20 08:42:34 2016",
+      "xMin": "-1100",
+      "yMin": "-621",
+      "xMax": "3596",
+      "yMax": "2195",
+      "macStyle bits": "0x0003",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1163",
@@ -5870,6 +8605,25 @@
     }
   },
   "webdings.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0xD76D9583",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x0019- baseline(y)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Sat Mar 15 03:39:51 1997",
+      "modified": "Sat Sep 30 08:16:56 2006",
+      "xMin": "-3",
+      "yMin": "-410",
+      "xMax": "8192",
+      "yMax": "1638",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1989",
@@ -5906,6 +8660,25 @@
     }
   },
   "wingding.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "5.0",
+      "checkSumAdjustment": "0x76C6CF17",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x081B- baseline(y)=0 - lsb(x)=0 - int ppem - nonlin aw",
+      "unitsPerEm": "2048",
+      "created": "Fri Jan 31 04:37:34 1992",
+      "modified": "Sat Sep 30 08:16:56 2006",
+      "xMin": "0",
+      "yMin": "-432",
+      "xMax": "2783",
+      "yMax": "1841",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "12",
+      "fontDirectionHint": "1",
+      "indexToLocFormat": "0",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "1",
       "xAvgCharWidth": "1822",
@@ -5942,6 +8715,25 @@
     }
   },
   "YuGothB.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0xACA39173",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Tue Apr 23 01:08:30 2013",
+      "modified": "Fri Jun 17 05:30:59 2016",
+      "xMin": "-872",
+      "yMin": "-637",
+      "xMax": "2439",
+      "yMax": "2675",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1975",
@@ -5983,6 +8775,25 @@
     }
   },
   "YuGothL.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0x57A765AA",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Wed May 15 20:56:58 2013",
+      "modified": "Fri Jun 17 05:21:46 2016",
+      "xMin": "-860",
+      "yMin": "-611",
+      "xMax": "2357",
+      "yMax": "2662",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1968",
@@ -6024,6 +8835,25 @@
     }
   },
   "YuGothM.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0xD1E005D2",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Tue Mar 04 20:39:02 2014",
+      "modified": "Fri Jun 17 05:21:56 2016",
+      "xMin": "-844",
+      "yMin": "-608",
+      "xMax": "2398",
+      "yMax": "2646",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1972",
@@ -6065,6 +8895,25 @@
     }
   },
   "YuGothR.ttc": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0x1F8DD6A7",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Wed May 15 20:57:17 2013",
+      "modified": "Fri Jun 17 05:22:05 2016",
+      "xMin": "-840",
+      "yMin": "-619",
+      "xMax": "2378",
+      "yMax": "2642",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "6",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "4",
       "xAvgCharWidth": "1972",
@@ -6106,6 +8955,25 @@
     }
   },
   "yumin.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0xA611600C",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu May 16 03:01:27 2013",
+      "modified": "Fri Jun 12 11:59:36 2015",
+      "xMin": "-844",
+      "yMin": "-743",
+      "xMax": "2546",
+      "yMax": "2646",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1984",
@@ -6147,6 +9015,25 @@
     }
   },
   "yumindb.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.7",
+      "checkSumAdjustment": "0xDBD47525",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Thu May 16 00:55:35 2013",
+      "modified": "Fri Jun 12 12:44:00 2015",
+      "xMin": "-862",
+      "yMin": "-842",
+      "xMax": "2644",
+      "yMax": "2664",
+      "macStyle bits": "0x0001",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1984",
@@ -6188,6 +9075,25 @@
     }
   },
   "yuminl.ttf": {
+    "head": {
+      "'head' version": "1.0",
+      "fontRevision": "1.6",
+      "checkSumAdjustment": "0x72C35898",
+      "magicNumber": "0x5F0F3CF5",
+      "flags": "0x000F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem",
+      "unitsPerEm": "2048",
+      "created": "Fri Feb 21 03:52:48 2014",
+      "modified": "Wed Apr 01 06:53:22 2015",
+      "xMin": "-838",
+      "yMin": "-692",
+      "xMax": "2494",
+      "yMax": "2640",
+      "macStyle bits": "0x0000",
+      "lowestRecPPEM": "9",
+      "fontDirectionHint": "2",
+      "indexToLocFormat": "1",
+      "glyphDataFormat": "0"
+    },
     "OS/2": {
       "'OS/2' version": "3",
       "xAvgCharWidth": "1981",

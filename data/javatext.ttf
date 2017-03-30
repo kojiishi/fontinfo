@@ -33,6 +33,27 @@ Offset Table
 17. 'post' - chksm = 0xFF690066, off = 0x00042E58, len =       32
 18. 'prep' - chksm = 0x4F4B2DD6, off = 0x00001BE4, len =      221
 
+'head' Table - Font Header
+--------------------------
+Size = 54 bytes (expecting 54 bytes)
+  'head' version:      1.0
+  fontRevision:        1.1
+  checkSumAdjustment:  0xA0ADD35C
+  magicNumber:         0x5F0F3CF5
+  flags:               0x001F- baseline(y)=0 - lsb(x)=0 - optical scl - int ppem - nonlin aw
+  unitsPerEm:          2048
+  created:             Wed Jan 02 19:40:50 2013
+  modified:            Fri May 13 10:31:38 2016
+  xMin:                -3330
+  yMin:                -2089
+  xMax:                5154
+  yMax:                2470
+  macStyle bits:       0x0000
+  lowestRecPPEM:       9
+  fontDirectionHint:   2
+  indexToLocFormat:    1
+  glyphDataFormat:     0
+
 'OS/2' Table - OS/2 and Windows Metrics
 ---------------------------------------
 Size = 96 bytes (expecting 96 bytes)
