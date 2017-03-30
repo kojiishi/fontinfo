@@ -1,0 +1,67 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'Ahem.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        11
+  searchRange =     128
+  entrySelector =     3
+  rangeShift =       48
+
+ 0. 'OS/2' - chksm = 0x78504A8D, off = 0x00000138, len =       96
+ 1. 'cmap' - chksm = 0x0FD61646, off = 0x0000056C, len =     1650
+ 2. 'gasp' - chksm = 0x00170009, off = 0x000030B0, len =       16
+ 3. 'glyf' - chksm = 0x49B374DA, off = 0x00000BE0, len =     6756
+ 4. 'head' - chksm = 0xD6A24E1C, off = 0x000000BC, len =       54
+ 5. 'hhea' - chksm = 0x070A0416, off = 0x000000F4, len =       36
+ 6. 'hmtx' - chksm = 0xB920007D, off = 0x00000198, len =      980
+ 7. 'loca' - chksm = 0x20752722, off = 0x00002644, len =      492
+ 8. 'maxp' - chksm = 0x00F80009, off = 0x00000118, len =       32
+ 9. 'name' - chksm = 0x7E148CB8, off = 0x00002830, len =     1640
+10. 'post' - chksm = 0x8DD01D8A, off = 0x00002E98, len =      536
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           2
+  xAvgCharWidth:            1000
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0000
+  ySubscriptXSize:          700
+  ySubscriptYSize:          650
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        143
+  ySuperscriptXSize:        700
+  ySuperscriptYSize:        650
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      453
+  yStrikeoutSize:           50
+  yStrikeoutPosition:       259
+  sFamilyClass:             0    subclass = 0
+  PANOSE:                   2  0  4  9  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): 800000AF
+  Unicode Range 2( Bits 32- 63 ): 10002048
+  Unicode Range 3( Bits 64- 95 ): 00000000
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'W3C'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xF002
+  sTypoAscender:            800
+  sTypoDescender:           -200
+  sTypoLineGap:             0
+  usWinAscent:              800
+  usWinDescent:             200
+  CodePage Range 1( Bits 0 - 31 ): 20000111
+  CodePage Range 2( Bits 32- 63 ): 40000000
+  sxHeight:                 800
+  sCapHeight:               800
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             0

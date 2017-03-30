@@ -1,0 +1,66 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'kaiu.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        15
+  searchRange =     128
+  entrySelector =     3
+  rangeShift =      112
+
+ 0. 'DSIG' - chksm = 0xC5917E6D, off = 0x004EEA84, len =     7000
+ 1. 'GSUB' - chksm = 0x7E97D5D8, off = 0x004EE980, len =      260
+ 2. 'OS/2' - chksm = 0x5EC7646C, off = 0x00000178, len =       86
+ 3. 'cmap' - chksm = 0x3F225B6E, off = 0x00015BA8, len =    45946
+ 4. 'cvt ' - chksm = 0x11E5EAD4, off = 0x0002A008, len =      848
+ 5. 'fpgm' - chksm = 0x5A30CA3B, off = 0x00020F24, len =    36963
+ 6. 'glyf' - chksm = 0xC7C98A1B, off = 0x0003FD34, len =  4909498
+ 7. 'head' - chksm = 0xCBC684AE, off = 0x000000FC, len =       54
+ 8. 'hhea' - chksm = 0x080259AB, off = 0x00000134, len =       36
+ 9. 'hmtx' - chksm = 0x5A021395, off = 0x000001D0, len =    88536
+10. 'loca' - chksm = 0x0462714C, off = 0x0002A358, len =    88540
+11. 'maxp' - chksm = 0x64DC915F, off = 0x00000158, len =       32
+12. 'name' - chksm = 0xBC70D260, off = 0x004EE6F0, len =      621
+13. 'post' - chksm = 0xFFB384B3, off = 0x004EE960, len =       32
+14. 'prep' - chksm = 0x13A42602, off = 0x00029F88, len =      126
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 86 bytes (expecting 86 bytes)
+  'OS/2' version:           1
+  xAvgCharWidth:            512
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          512
+  ySubscriptYSize:          512
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        0
+  ySuperscriptXSize:        512
+  ySuperscriptYSize:        512
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      512
+  yStrikeoutSize:           51
+  yStrikeoutPosition:       260
+  sFamilyClass:             10    subclass = 7
+  PANOSE:                   3  0  5  9  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): 00000003
+  Unicode Range 2( Bits 32- 63 ): 082E0000
+  Unicode Range 3( Bits 64- 95 ): 00000016
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'DYNA'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0001
+  usLastCharIndex:          0xFFE5
+  sTypoAscender:            820
+  sTypoDescender:           -204
+  sTypoLineGap:             204
+  usWinAscent:              820
+  usWinDescent:             204
+  CodePage Range 1( Bits 0 - 31 ): 00100001
+  CodePage Range 2( Bits 32- 63 ): 00000000

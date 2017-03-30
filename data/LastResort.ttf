@@ -1,0 +1,75 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'LastResort.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        19
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       48
+
+ 0. 'GDEF' - chksm = 0x0011183F, off = 0x005004E0, len =       22
+ 1. 'GPOS' - chksm = 0x3AAD5500, off = 0x005004F8, len =      288
+ 2. 'GSUB' - chksm = 0xFF024080, off = 0x00500618, len =     5944
+ 3. 'LTSH' - chksm = 0x88454659, off = 0x00501D50, len =      280
+ 4. 'OS/2' - chksm = 0x1D585C33, off = 0x00500480, len =       96
+ 5. 'VDMX' - chksm = 0x650A6CA5, off = 0x00501E68, len =     1504
+ 6. 'cmap' - chksm = 0x5143A53F, off = 0x0008D100, len =  4666208
+ 7. 'cvt ' - chksm = 0x5C2472A9, off = 0x00073260, len =     1784
+ 8. 'fpgm' - chksm = 0xC69071C3, off = 0x00006238, len =      374
+ 9. 'glyf' - chksm = 0x02B9C85F, off = 0x0000C56C, len =   421106
+10. 'hdmx' - chksm = 0x833C0494, off = 0x00502448, len =   142884
+11. 'head' - chksm = 0xFCB1F06C, off = 0x00073958, len =       54
+12. 'hhea' - chksm = 0x0FED2031, off = 0x00073990, len =       36
+13. 'hmtx' - chksm = 0x7D858D52, off = 0x0000013C, len =    24828
+14. 'loca' - chksm = 0x84BF166C, off = 0x0000646C, len =    24832
+15. 'maxp' - chksm = 0x1D630CE2, off = 0x00500460, len =       32
+16. 'name' - chksm = 0x2E977E39, off = 0x0008C924, len =     2010
+17. 'post' - chksm = 0x702821C9, off = 0x000739B4, len =   102254
+18. 'prep' - chksm = 0xD798DC31, off = 0x000063B0, len =      186
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           2
+  xAvgCharWidth:            2350
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0000
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        293
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      928
+  yStrikeoutSize:           102
+  yStrikeoutPosition:       530
+  sFamilyClass:             0    subclass = 0
+  PANOSE:                   0  0  4  0  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): F7FFAEFF
+  Unicode Range 2( Bits 32- 63 ): FBDFFFFF
+  Unicode Range 3( Bits 64- 95 ): 07FFFFFF
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'APPL'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0000
+  usLastCharIndex:          0xFFFD
+  sTypoAscender:            1707
+  sTypoDescender:           -512
+  sTypoLineGap:             18
+  usWinAscent:              1540
+  usWinDescent:             418
+  CodePage Range 1( Bits 0 - 31 ): 00000001
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 500
+  sCapHeight:               700
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             4

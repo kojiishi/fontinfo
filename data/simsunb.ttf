@@ -1,0 +1,74 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'simsunb.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        18
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       32
+
+ 0. 'DSIG' - chksm = 0x657B9A33, off = 0x0104355C, len =     7620
+ 1. 'GSUB' - chksm = 0x29532852, off = 0x0102C374, len =       72
+ 2. 'OS/2' - chksm = 0x531A65F1, off = 0x000001A8, len =       96
+ 3. 'cmap' - chksm = 0x41208BCE, off = 0x0002E4F4, len =     1526
+ 4. 'cvt ' - chksm = 0x072903F0, off = 0x0002EBB0, len =      702
+ 5. 'fpgm' - chksm = 0x4AA192E8, off = 0x0002EAEC, len =       13
+ 6. 'gasp' - chksm = 0x00200009, off = 0x0102C364, len =       16
+ 7. 'glyf' - chksm = 0x541CFA13, off = 0x0005D160, len = 16575732
+ 8. 'head' - chksm = 0x05FFC0D6, off = 0x0000012C, len =       54
+ 9. 'hhea' - chksm = 0x01DEB998, off = 0x00000164, len =       36
+10. 'hmtx' - chksm = 0x8A076811, off = 0x00000208, len =   189164
+11. 'loca' - chksm = 0x95E0A9B2, off = 0x0002EE70, len =   189168
+12. 'maxp' - chksm = 0xBA6602C2, off = 0x00000188, len =       32
+13. 'name' - chksm = 0x81011E04, off = 0x0102BE54, len =     1262
+14. 'post' - chksm = 0xFFF1000D, off = 0x0102C344, len =       32
+15. 'prep' - chksm = 0x05DC4FCC, off = 0x0002EAFC, len =      178
+16. 'vhea' - chksm = 0x01E300DC, off = 0x0102C3BC, len =       36
+17. 'vmtx' - chksm = 0x6FA16BD5, off = 0x0102C3E0, len =    94588
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            128
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          128
+  ySubscriptYSize:          128
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        16
+  ySuperscriptXSize:        128
+  ySuperscriptYSize:        128
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      128
+  yStrikeoutSize:           12
+  yStrikeoutPosition:       65
+  sFamilyClass:             0    subclass = 0
+  PANOSE:                   2  1  6  9  6  1  1  1  1  1
+  Unicode Range 1( Bits 0 - 31 ): 00000001
+  Unicode Range 2( Bits 32- 63 ): 02000000
+  Unicode Range 3( Bits 64- 95 ): 00000000
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'ZYEC'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xFFFF
+  sTypoAscender:            220
+  sTypoDescender:           -36
+  sTypoLineGap:             36
+  usWinAscent:              220
+  usWinDescent:             36
+  CodePage Range 1( Bits 0 - 31 ): 00040001
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 0
+  sCapHeight:               0
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             2

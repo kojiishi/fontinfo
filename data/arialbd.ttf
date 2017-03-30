@@ -1,0 +1,81 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'arialbd.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        25
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =      144
+
+ 0. 'DSIG' - chksm = 0x0B6B3BAD, off = 0x000D17A0, len =     6876
+ 1. 'GDEF' - chksm = 0xB13FB3A1, off = 0x000B8C28, len =      820
+ 2. 'GPOS' - chksm = 0x51FC1DF3, off = 0x000B8F5C, len =    72548
+ 3. 'GSUB' - chksm = 0xE99D66E1, off = 0x000CAAC0, len =    27738
+ 4. 'JSTF' - chksm = 0x6D2A6906, off = 0x000D171C, len =       30
+ 5. 'LTSH' - chksm = 0xFD41F871, off = 0x000044AC, len =     4241
+ 6. 'OS/2' - chksm = 0x155D5EB0, off = 0x00000218, len =       96
+ 7. 'PCLT' - chksm = 0x1FBF4147, off = 0x000B8BF0, len =       54
+ 8. 'VDMX' - chksm = 0x5605707F, off = 0x00005540, len =     4500
+ 9. 'cmap' - chksm = 0x7EBF3522, off = 0x0001F45C, len =     9834
+10. 'cvt ' - chksm = 0xFFC3AD47, off = 0x00023300, len =     1888
+11. 'fpgm' - chksm = 0xBA2711A6, off = 0x00021AC8, len =     1598
+12. 'gasp' - chksm = 0x00110009, off = 0x000B8BE0, len =       16
+13. 'glyf' - chksm = 0x29E19041, off = 0x00027C98, len =   576398
+14. 'hdmx' - chksm = 0xED52ADE2, off = 0x000066D4, len =   101768
+15. 'head' - chksm = 0xE6AE50EE, off = 0x0000019C, len =       54
+16. 'hhea' - chksm = 0x127E1956, off = 0x000001D4, len =       36
+17. 'hmtx' - chksm = 0x1DA561B2, off = 0x00000278, len =    16948
+18. 'kern' - chksm = 0x414F4EDD, off = 0x000B4828, len =     5466
+19. 'loca' - chksm = 0x49D564F0, off = 0x00023A60, len =    16952
+20. 'maxp' - chksm = 0x1886065B, off = 0x000001F8, len =       32
+21. 'meta' - chksm = 0x05CDCCC3, off = 0x000D173C, len =       98
+22. 'name' - chksm = 0xF48686E6, off = 0x000B5D84, len =    11836
+23. 'post' - chksm = 0xFF2A00D7, off = 0x000B8BC0, len =       32
+24. 'prep' - chksm = 0x034F36AE, off = 0x00022108, len =     4597
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            980
+  usWeightClass:            700
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        283
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      977
+  yStrikeoutSize:           102
+  yStrikeoutPosition:       530
+  sFamilyClass:             8    subclass = 5
+  PANOSE:                   2 11  7  4  2  2  2  2  2  4
+  Unicode Range 1( Bits 0 - 31 ): E0002EFF
+  Unicode Range 2( Bits 32- 63 ): C0007843
+  Unicode Range 3( Bits 64- 95 ): 00000009
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'TMC '
+  fsSelection:              0x0020
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xFFFC
+  sTypoAscender:            1491
+  sTypoDescender:           -431
+  sTypoLineGap:             307
+  usWinAscent:              1854
+  usWinDescent:             434
+  CodePage Range 1( Bits 0 - 31 ): 400001FF
+  CodePage Range 2( Bits 32- 63 ): FFFF0000
+  sxHeight:                 1062
+  sCapHeight:               1466
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             21

@@ -1,0 +1,78 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'msmincho.ttc' TTF Index 1
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        22
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       96
+
+ 0. 'BASE' - chksm = 0x2E328BDD, off = 0x00000308, len =      444
+ 1. 'EBDT' - chksm = 0xFF5A0FD0, off = 0x000004C4, len =  2130800
+ 2. 'EBLC' - chksm = 0x24ECED09, off = 0x00208834, len =   371512
+ 3. 'GDEF' - chksm = 0x114C5CE5, off = 0x0026336C, len =       42
+ 4. 'GPOS' - chksm = 0x4A50519B, off = 0x00263398, len =     1436
+ 5. 'GSUB' - chksm = 0x42D8B633, off = 0x00263934, len =     7482
+ 6. 'OS/2' - chksm = 0x53E9D3EC, off = 0x00265670, len =       96
+ 7. 'cmap' - chksm = 0x904A27EA, off = 0x002656D0, len =    91828
+ 8. 'cvt ' - chksm = 0x02960294, off = 0x0027BD84, len =      380
+ 9. 'fpgm' - chksm = 0xC77D1C8E, off = 0x0027BF00, len =     1175
+10. 'gasp' - chksm = 0x002F0006, off = 0x0027C398, len =       12
+11. 'glyf' - chksm = 0x1274352D, off = 0x0027C3A4, len =  7114008
+12. 'head' - chksm = 0xEBABF071, off = 0x009450BC, len =       54
+13. 'hhea' - chksm = 0x00E44C89, off = 0x009450F4, len =       36
+14. 'hmtx' - chksm = 0x0939346D, off = 0x00945118, len =    77590
+15. 'loca' - chksm = 0xB11E826C, off = 0x00958030, len =    77596
+16. 'maxp' - chksm = 0x503803A4, off = 0x0096AF4C, len =       32
+17. 'name' - chksm = 0xF76EC56C, off = 0x0096AF6C, len =     2388
+18. 'post' - chksm = 0xFFEB000D, off = 0x0096B8C0, len =       32
+19. 'prep' - chksm = 0x9C1D7E7B, off = 0x0096B8E0, len =      964
+20. 'vhea' - chksm = 0x01DE4C93, off = 0x0096BCA4, len =       36
+21. 'vmtx' - chksm = 0x5756301C, off = 0x0096BCC8, len =    77592
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            128
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          128
+  ySubscriptYSize:          128
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        92
+  ySuperscriptXSize:        128
+  ySuperscriptYSize:        128
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      220
+  yStrikeoutSize:           13
+  yStrikeoutPosition:       66
+  sFamilyClass:             1    subclass = 5
+  PANOSE:                   2  2  6  9  4  2  5  8  3  4
+  Unicode Range 1( Bits 0 - 31 ): E00002FF
+  Unicode Range 2( Bits 32- 63 ): 6AC7FDFB
+  Unicode Range 3( Bits 64- 95 ): 08000012
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'RICO'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0000
+  usLastCharIndex:          0xFFEE
+  sTypoAscender:            220
+  sTypoDescender:           -36
+  sTypoLineGap:             0
+  usWinAscent:              220
+  usWinDescent:             36
+  CodePage Range 1( Bits 0 - 31 ): 4002009F
+  CodePage Range 2( Bits 32- 63 ): DFD70000
+  sxHeight:                 115
+  sCapHeight:               174
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             2

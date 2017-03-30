@@ -1,0 +1,78 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'palai.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        22
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       96
+
+ 0. 'DSIG' - chksm = 0x7222C8D3, off = 0x00061544, len =     6880
+ 1. 'GDEF' - chksm = 0x00260535, off = 0x00063024, len =       30
+ 2. 'GPOS' - chksm = 0xF2AC22B4, off = 0x00063044, len =     2024
+ 3. 'GSUB' - chksm = 0xB46059A6, off = 0x0006382C, len =     3912
+ 4. 'LTSH' - chksm = 0xF1AC1FCA, off = 0x00001708, len =     1332
+ 5. 'OS/2' - chksm = 0x7CF3AFB0, off = 0x000001E8, len =       96
+ 6. 'VDMX' - chksm = 0xFB51E4D8, off = 0x00001C3C, len =     3002
+ 7. 'cmap' - chksm = 0x48157D04, off = 0x00008ADC, len =     2934
+ 8. 'cvt ' - chksm = 0x8650A714, off = 0x0000A76C, len =      796
+ 9. 'fpgm' - chksm = 0x3FDFDBF9, off = 0x00009654, len =     1834
+10. 'gasp' - chksm = 0x00180009, off = 0x00061534, len =       16
+11. 'glyf' - chksm = 0xFC75659D, off = 0x0000BF4C, len =   342992
+12. 'hdmx' - chksm = 0x452102CB, off = 0x000027F8, len =    25316
+13. 'head' - chksm = 0xEB0C1512, off = 0x0000016C, len =       54
+14. 'hhea' - chksm = 0x113E0AE5, off = 0x000001A4, len =       36
+15. 'hmtx' - chksm = 0x0D0525B7, off = 0x00000248, len =     5312
+16. 'kern' - chksm = 0x1C6923BE, off = 0x0005FB1C, len =      624
+17. 'loca' - chksm = 0x0FB53F2A, off = 0x0000AA88, len =     5316
+18. 'maxp' - chksm = 0x0B660B51, off = 0x000001C8, len =       32
+19. 'name' - chksm = 0x82C0A763, off = 0x0005FD8C, len =     6022
+20. 'post' - chksm = 0xFF290078, off = 0x00061514, len =       32
+21. 'prep' - chksm = 0xC3E941A5, off = 0x00009D80, len =     2539
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            821
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1285
+  ySubscriptYSize:          1230
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        0
+  ySuperscriptXSize:        1285
+  ySuperscriptYSize:        1230
+  ySuperscriptXOffset:      85
+  ySuperscriptYOffset:      560
+  yStrikeoutSize:           120
+  yStrikeoutPosition:       530
+  sFamilyClass:             1    subclass = 4
+  PANOSE:                   2  4  5  2  5  3  5 10  3  4
+  Unicode Range 1( Bits 0 - 31 ): E0000287
+  Unicode Range 2( Bits 32- 63 ): 40000013
+  Unicode Range 3( Bits 64- 95 ): 00000000
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'LINO'
+  fsSelection:              0x0001
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xFFFC
+  sTypoAscender:            1499
+  sTypoDescender:           -582
+  sTypoLineGap:             682
+  usWinAscent:              2150
+  usWinDescent:             613
+  CodePage Range 1( Bits 0 - 31 ): 2000019F
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 1062
+  sCapHeight:               1466
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             3

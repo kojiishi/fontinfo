@@ -1,0 +1,69 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'symbol.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        18
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       32
+
+ 0. 'DSIG' - chksm = 0xD92C2C1B, off = 0x0000F698, len =     7000
+ 1. 'LTSH' - chksm = 0x31D8CE03, off = 0x000004FC, len =      196
+ 2. 'OS/2' - chksm = 0x59ACEF4F, off = 0x000001A8, len =       86
+ 3. 'VDMX' - chksm = 0x826F770F, off = 0x000005C0, len =     1524
+ 4. 'cmap' - chksm = 0x880717E4, off = 0x00001E1C, len =      762
+ 5. 'cvt ' - chksm = 0x2AC4FB85, off = 0x00002A2C, len =     1284
+ 6. 'fpgm' - chksm = 0x5D3AE803, off = 0x00002118, len =     1439
+ 7. 'gasp' - chksm = 0x00190009, off = 0x0000F688, len =       16
+ 8. 'glyf' - chksm = 0x564BC27A, off = 0x000030B4, len =    44684
+ 9. 'hdmx' - chksm = 0x07EF0382, off = 0x00000BB4, len =     4712
+10. 'head' - chksm = 0xD4AA4089, off = 0x0000012C, len =       54
+11. 'hhea' - chksm = 0x0FA00381, off = 0x00000164, len =       36
+12. 'hmtx' - chksm = 0x7750493E, off = 0x00000200, len =      764
+13. 'loca' - chksm = 0x400D148A, off = 0x00002F30, len =      386
+14. 'maxp' - chksm = 0x02190637, off = 0x00000188, len =       32
+15. 'name' - chksm = 0xE110506B, off = 0x0000DF40, len =     3900
+16. 'post' - chksm = 0x1901164B, off = 0x0000EE7C, len =     2057
+17. 'prep' - chksm = 0x56A9A53F, off = 0x000026B8, len =      883
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 86 bytes (expecting 86 bytes)
+  'OS/2' version:           1
+  xAvgCharWidth:            1229
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        293
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      928
+  yStrikeoutSize:           102
+  yStrikeoutPosition:       530
+  sFamilyClass:             12    subclass = 3
+  PANOSE:                   5  5  1  2  1  7  6  2  5  7
+  Unicode Range 1( Bits 0 - 31 ): 00000000
+  Unicode Range 2( Bits 32- 63 ): 00000000
+  Unicode Range 3( Bits 64- 95 ): 00000000
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'TMC '
+  fsSelection:              0x0040
+  usFirstCharIndex:         0xF020
+  usLastCharIndex:          0xF0FE
+  sTypoAscender:            1420
+  sTypoDescender:           -442
+  sTypoLineGap:             307
+  usWinAscent:              2059
+  usWinDescent:             450
+  CodePage Range 1( Bits 0 - 31 ): 80000000
+  CodePage Range 2( Bits 32- 63 ): 00000000

@@ -1,0 +1,69 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'marlett.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        18
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       32
+
+ 0. 'DSIG' - chksm = 0xEA072E68, off = 0x00004CD8, len =     7000
+ 1. 'LTSH' - chksm = 0x0B0A0A33, off = 0x000002A4, len =       45
+ 2. 'OS/2' - chksm = 0x1A4ECDA7, off = 0x000001A8, len =       86
+ 3. 'VDMX' - chksm = 0xA779D26A, off = 0x000002D4, len =     7496
+ 4. 'cmap' - chksm = 0x9EA8B690, off = 0x000022E4, len =      338
+ 5. 'cvt ' - chksm = 0x27FEE3FD, off = 0x00002A38, len =     1282
+ 6. 'fpgm' - chksm = 0x68E7075B, off = 0x00002438, len =     1093
+ 7. 'gasp' - chksm = 0xFFFF0002, off = 0x00004CD0, len =        8
+ 8. 'glyf' - chksm = 0x2D9EF133, off = 0x00002F90, len =     5760
+ 9. 'hdmx' - chksm = 0x5A5AE07C, off = 0x0000201C, len =      712
+10. 'head' - chksm = 0xD24683B6, off = 0x0000012C, len =       54
+11. 'hhea' - chksm = 0x0EA20740, off = 0x00000164, len =       36
+12. 'hmtx' - chksm = 0x240331A5, off = 0x00000200, len =      164
+13. 'loca' - chksm = 0x66766C66, off = 0x00002F3C, len =       84
+14. 'maxp' - chksm = 0x01110176, off = 0x00000188, len =       32
+15. 'name' - chksm = 0xA0F2FD75, off = 0x00004610, len =     1569
+16. 'post' - chksm = 0xAD07CE56, off = 0x00004C34, len =      153
+17. 'prep' - chksm = 0xBE9F9CFB, off = 0x00002880, len =      440
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 86 bytes (expecting 86 bytes)
+  'OS/2' version:           1
+  xAvgCharWidth:            1964
+  usWeightClass:            500
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          0
+  ySubscriptYSize:          0
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        0
+  ySuperscriptXSize:        0
+  ySuperscriptYSize:        0
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      0
+  yStrikeoutSize:           0
+  yStrikeoutPosition:       0
+  sFamilyClass:             0    subclass = 0
+  PANOSE:                   0  0  0  0  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): 00000000
+  Unicode Range 2( Bits 32- 63 ): 00000000
+  Unicode Range 3( Bits 64- 95 ): 00000000
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'MS  '
+  fsSelection:              0x0000
+  usFirstCharIndex:         0xF030
+  usLastCharIndex:          0xF0A3
+  sTypoAscender:            2048
+  sTypoDescender:           0
+  sTypoLineGap:             0
+  usWinAscent:              2048
+  usWinDescent:             0
+  CodePage Range 1( Bits 0 - 31 ): 80000000
+  CodePage Range 2( Bits 32- 63 ): 00000000

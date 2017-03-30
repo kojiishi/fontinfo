@@ -1,0 +1,80 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'segoeui.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        24
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =      128
+
+ 0. 'DSIG' - chksm = 0x189DCFA8, off = 0x000DC268, len =     8316
+ 1. 'GDEF' - chksm = 0x15D42150, off = 0x000C0430, len =      808
+ 2. 'GPOS' - chksm = 0x20611E53, off = 0x000C0758, len =    78994
+ 3. 'GSUB' - chksm = 0x5B86D314, off = 0x000D3BEC, len =    34286
+ 4. 'LTSH' - chksm = 0x8D69939D, off = 0x0000531C, len =     5169
+ 5. 'MERG' - chksm = 0x00160001, off = 0x000DC1DC, len =       12
+ 6. 'OS/2' - chksm = 0x5F623D91, off = 0x00000208, len =       96
+ 7. 'VDMX' - chksm = 0x76587DD3, off = 0x00006750, len =     1504
+ 8. 'cmap' - chksm = 0x1241407C, off = 0x0001C468, len =     5426
+ 9. 'cvt ' - chksm = 0x82035DDB, off = 0x0001EC38, len =     2594
+10. 'fpgm' - chksm = 0x4944D867, off = 0x0001D99C, len =     2652
+11. 'gasp' - chksm = 0x001B0023, off = 0x000C0420, len =       16
+12. 'glyf' - chksm = 0xEB703C6B, off = 0x00024714, len =   584002
+13. 'hdmx' - chksm = 0xF1CD9044, off = 0x00006D30, len =    87864
+14. 'head' - chksm = 0xEDB7E01D, off = 0x0000018C, len =       54
+15. 'hhea' - chksm = 0x152F1BE2, off = 0x000001C4, len =       36
+16. 'hmtx' - chksm = 0x702D2C33, off = 0x00000268, len =    20660
+17. 'kern' - chksm = 0xC58BEEF2, off = 0x000B3058, len =    49776
+18. 'loca' - chksm = 0x543C96E6, off = 0x0001F65C, len =    20664
+19. 'maxp' - chksm = 0x19FD0DEA, off = 0x000001E8, len =       32
+20. 'meta' - chksm = 0x4D44B7B7, off = 0x000DC1E8, len =      128
+21. 'name' - chksm = 0x60BF4B44, off = 0x000BF2C8, len =     4408
+22. 'post' - chksm = 0xFF510077, off = 0x000C0400, len =       32
+23. 'prep' - chksm = 0x93EE1EB9, off = 0x0001E3F8, len =     2112
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            1103
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        283
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      977
+  yStrikeoutSize:           102
+  yStrikeoutPosition:       530
+  sFamilyClass:             8    subclass = 5
+  PANOSE:                   2 11  5  2  4  2  4  2  2  3
+  Unicode Range 1( Bits 0 - 31 ): E4002EFF
+  Unicode Range 2( Bits 32- 63 ): C000E47F
+  Unicode Range 3( Bits 64- 95 ): 00000009
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'MS  '
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x000D
+  usLastCharIndex:          0xFFFD
+  sTypoAscender:            1491
+  sTypoDescender:           -431
+  sTypoLineGap:             269
+  usWinAscent:              2210
+  usWinDescent:             514
+  CodePage Range 1( Bits 0 - 31 ): 200001FF
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 1024
+  sCapHeight:               1434
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             23

@@ -1,0 +1,78 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'LeelaUIb.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        22
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       96
+
+ 0. 'DSIG' - chksm = 0x991F53E9, off = 0x0004DFB8, len =     6876
+ 1. 'GDEF' - chksm = 0x2EBD310E, off = 0x000454B0, len =     1312
+ 2. 'GPOS' - chksm = 0xD4982B9C, off = 0x000459D0, len =    20906
+ 3. 'GSUB' - chksm = 0x1A579239, off = 0x0004AB7C, len =    13276
+ 4. 'MERG' - chksm = 0x00160001, off = 0x0004DF58, len =       12
+ 5. 'OS/2' - chksm = 0x4BD0FAE1, off = 0x000001E8, len =       96
+ 6. 'VDMX' - chksm = 0x76587DD3, off = 0x00001244, len =     1504
+ 7. 'cmap' - chksm = 0x1F8BFCC3, off = 0x00001824, len =     1166
+ 8. 'cvt ' - chksm = 0x6799616D, off = 0x00002988, len =      680
+ 9. 'fpgm' - chksm = 0x5A152319, off = 0x00001CB4, len =     2391
+10. 'gasp' - chksm = 0x00180023, off = 0x000454A0, len =       16
+11. 'glyf' - chksm = 0x2B21FD0E, off = 0x00003C30, len =   256740
+12. 'head' - chksm = 0xE8F98695, off = 0x0000016C, len =       54
+13. 'hhea' - chksm = 0x10F40D9D, off = 0x000001A4, len =       36
+14. 'hmtx' - chksm = 0x5079C550, off = 0x00000248, len =     4092
+15. 'kern' - chksm = 0xE119EE80, off = 0x00042714, len =     8706
+16. 'loca' - chksm = 0x06C11096, off = 0x00002C30, len =     4096
+17. 'maxp' - chksm = 0x070F0B19, off = 0x000001C8, len =       32
+18. 'meta' - chksm = 0xB0A8B529, off = 0x0004DF64, len =       83
+19. 'name' - chksm = 0x1A543AF6, off = 0x00044918, len =     2920
+20. 'post' - chksm = 0xFF510077, off = 0x00045480, len =       32
+21. 'prep' - chksm = 0xD4DB32B4, off = 0x0000260C, len =      891
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            1208
+  usWeightClass:            700
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        283
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      977
+  yStrikeoutSize:           119
+  yStrikeoutPosition:       452
+  sFamilyClass:             8    subclass = 5
+  PANOSE:                   2 11  8  2  4  2  4  2  2  3
+  Unicode Range 1( Bits 0 - 31 ): 83000003
+  Unicode Range 2( Bits 32- 63 ): 00000000
+  Unicode Range 3( Bits 64- 95 ): 00010000
+  Unicode Range 4( Bits 96-127 ): 00000001
+  achVendID:                'MS  '
+  fsSelection:              0x0020
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xFB02
+  sTypoAscender:            1491
+  sTypoDescender:           -431
+  sTypoLineGap:             269
+  usWinAscent:              2210
+  usWinDescent:             514
+  CodePage Range 1( Bits 0 - 31 ): 00010101
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 1024
+  sCapHeight:               1434
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             6

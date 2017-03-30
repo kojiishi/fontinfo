@@ -1,0 +1,76 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'yumindb.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        20
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       64
+
+ 0. 'BASE' - chksm = 0x1B8E200D, off = 0x00C415B8, len =      228
+ 1. 'DSIG' - chksm = 0x785E3383, off = 0x00CA03CC, len =     6876
+ 2. 'GPOS' - chksm = 0x0BF21C9A, off = 0x00C4169C, len =    68758
+ 3. 'GSUB' - chksm = 0x85D30BEE, off = 0x00C52334, len =   226024
+ 4. 'OS/2' - chksm = 0x493D4087, off = 0x000001C8, len =       96
+ 5. 'cmap' - chksm = 0x514C2A6E, off = 0x00016ED0, len =   257642
+ 6. 'cvt ' - chksm = 0x59683CFD, off = 0x00057024, len =      414
+ 7. 'fpgm' - chksm = 0x19671D43, off = 0x00055D3C, len =     3578
+ 8. 'gasp' - chksm = 0x0007001B, off = 0x00C415AC, len =       12
+ 9. 'glyf' - chksm = 0xAA13F845, off = 0x0006DF54, len = 12399192
+10. 'head' - chksm = 0x057384C7, off = 0x0000014C, len =       54
+11. 'hhea' - chksm = 0x1203610C, off = 0x00000184, len =       36
+12. 'hmtx' - chksm = 0x72D80800, off = 0x00000228, len =    93352
+13. 'loca' - chksm = 0x8B1EE5E8, off = 0x000571C4, len =    93584
+14. 'maxp' - chksm = 0x6038104B, off = 0x000001A8, len =       32
+15. 'name' - chksm = 0x7701B4D4, off = 0x00C411AC, len =      990
+16. 'post' - chksm = 0xFF360068, off = 0x00C4158C, len =       32
+17. 'prep' - chksm = 0x3B11F295, off = 0x00056B38, len =     1257
+18. 'vhea' - chksm = 0x0E036205, off = 0x00C8961C, len =       36
+19. 'vmtx' - chksm = 0xFCF19F12, off = 0x00C89640, len =    93580
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            1984
+  usWeightClass:            600
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1331
+  ySubscriptYSize:          1229
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        154
+  ySuperscriptXSize:        1331
+  ySuperscriptYSize:        1229
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      717
+  yStrikeoutSize:           94
+  yStrikeoutPosition:       858
+  sFamilyClass:             8    subclass = 5
+  PANOSE:                   2  2  6  0  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): 800002E7
+  Unicode Range 2( Bits 32- 63 ): 2AC7FCFF
+  Unicode Range 3( Bits 64- 95 ): 00000012
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'JY  '
+  fsSelection:              0x0020
+  usFirstCharIndex:         0x0020
+  usLastCharIndex:          0xFFFF
+  sTypoAscender:            1802
+  sTypoDescender:           -246
+  sTypoLineGap:             1024
+  usWinAscent:              2005
+  usWinDescent:             631
+  CodePage Range 1( Bits 0 - 31 ): 2002009F
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 977
+  sCapHeight:               1538
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             8

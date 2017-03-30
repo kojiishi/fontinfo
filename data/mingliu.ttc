@@ -1,0 +1,76 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'mingliu.ttc' TTF Index 1
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        20
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =       64
+
+ 0. 'EBDT' - chksm = 0xF794302F, off = 0x00000408, len =  4814356
+ 1. 'EBLC' - chksm = 0xBA810D07, off = 0x00497A1C, len =     7160
+ 2. 'GSUB' - chksm = 0x38F63190, off = 0x00499614, len =      348
+ 3. 'OS/2' - chksm = 0x60841DCD, off = 0x00499770, len =       96
+ 4. 'cmap' - chksm = 0x5B7AA9F4, off = 0x004997D0, len =    44040
+ 5. 'cvt ' - chksm = 0x00000000, off = 0x004A43D8, len =        8
+ 6. 'fpgm' - chksm = 0xF40DDF13, off = 0x004A43E0, len =       17
+ 7. 'gasp' - chksm = 0x00370009, off = 0x004A43F4, len =       16
+ 8. 'glyf' - chksm = 0x2B116239, off = 0x004A4404, len = 22122822
+ 9. 'head' - chksm = 0xEF69C69D, off = 0x019BD54C, len =       54
+10. 'hhea' - chksm = 0x080286F9, off = 0x019BD584, len =       36
+11. 'hmtx' - chksm = 0x3E99C900, off = 0x019BD5A8, len =   136096
+12. 'loca' - chksm = 0x08743C52, off = 0x019DE948, len =   136244
+13. 'maxp' - chksm = 0x8D360354, off = 0x019FFD7C, len =       32
+14. 'meta' - chksm = 0x689BBA3D, off = 0x019FFD9C, len =       48
+15. 'name' - chksm = 0x37FB0B0B, off = 0x019FFDCC, len =     1412
+16. 'post' - chksm = 0xFFB691E1, off = 0x01A00350, len =       32
+17. 'prep' - chksm = 0x6286EE0A, off = 0x01A00370, len =       19
+18. 'vhea' - chksm = 0x06030201, off = 0x01A00384, len =       36
+19. 'vmtx' - chksm = 0x6A718E75, off = 0x01A003A8, len =    68122
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           3
+  xAvgCharWidth:            512
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          512
+  ySubscriptYSize:          512
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        0
+  ySuperscriptXSize:        512
+  ySuperscriptYSize:        512
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      512
+  yStrikeoutSize:           51
+  yStrikeoutPosition:       260
+  sFamilyClass:             1    subclass = 5
+  PANOSE:                   2  2  5  9  0  0  0  0  0  0
+  Unicode Range 1( Bits 0 - 31 ): A00002FF
+  Unicode Range 2( Bits 32- 63 ): 28CFFCFA
+  Unicode Range 3( Bits 64- 95 ): 00000016
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'DYNA'
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0000
+  usLastCharIndex:          0xFFED
+  sTypoAscender:            820
+  sTypoDescender:           -204
+  sTypoLineGap:             204
+  usWinAscent:              820
+  usWinDescent:             204
+  CodePage Range 1( Bits 0 - 31 ): 00100001
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 440
+  sCapHeight:               675
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             2

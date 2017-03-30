@@ -1,0 +1,80 @@
+
+; TrueType v1.0 Dump Program - v1.8, Oct 29 2002, rrt, dra, gch, ddb, lcp, pml
+; Copyright (C) 1991 ZSoft Corporation. All rights reserved.
+; Portions Copyright (C) 1991-2001 Microsoft Corporation. All rights reserved.
+
+; Dumping file 'malgun.ttf'
+
+Offset Table
+------ -----
+  sfnt version:     1.0
+  numTables =        24
+  searchRange =     256
+  entrySelector =     4
+  rangeShift =      128
+
+ 0. 'DSIG' - chksm = 0x8826BE0A, off = 0x00CD384C, len =     7620
+ 1. 'GDEF' - chksm = 0x00266E3C, off = 0x00CB5FE4, len =       30
+ 2. 'GPOS' - chksm = 0x6B137BB4, off = 0x00CB6004, len =       76
+ 3. 'GSUB' - chksm = 0xD639C313, off = 0x00CB6050, len =     7854
+ 4. 'MERG' - chksm = 0x00160001, off = 0x00CB7F00, len =       12
+ 5. 'OS/2' - chksm = 0xC1EF2F05, off = 0x00000208, len =       96
+ 6. 'VDMX' - chksm = 0x774E7EC9, off = 0x0001BB40, len =     1504
+ 7. 'cmap' - chksm = 0x548B5A29, off = 0x0001C120, len =    59142
+ 8. 'cvt ' - chksm = 0x6E167864, off = 0x0002B6F4, len =      810
+ 9. 'fpgm' - chksm = 0x2C98B72C, off = 0x0002A828, len =     2566
+10. 'gasp' - chksm = 0x001A0027, off = 0x00CB5FD4, len =       16
+11. 'glyf' - chksm = 0xF7EC279E, off = 0x00047300, len = 13030084
+12. 'head' - chksm = 0x1255D651, off = 0x0000018C, len =       54
+13. 'hhea' - chksm = 0x0A7F74CD, off = 0x000001C4, len =       36
+14. 'hmtx' - chksm = 0x066831B5, off = 0x00000268, len =   112856
+15. 'kern' - chksm = 0x8577851D, off = 0x00CB45C4, len =     3516
+16. 'loca' - chksm = 0x5C20DE0E, off = 0x0002BA20, len =   112864
+17. 'maxp' - chksm = 0x72130683, off = 0x000001E8, len =       32
+18. 'meta' - chksm = 0x383F72F6, off = 0x00CB7F0C, len =       68
+19. 'name' - chksm = 0x389120F0, off = 0x00CB5380, len =     3121
+20. 'post' - chksm = 0xFE730077, off = 0x00CB5FB4, len =       32
+21. 'prep' - chksm = 0xD1E31EAF, off = 0x0002B230, len =     1220
+22. 'vhea' - chksm = 0x0C427A5B, off = 0x00CB7F50, len =       36
+23. 'vmtx' - chksm = 0x138FC1E9, off = 0x00CB7F74, len =   112856
+
+'OS/2' Table - OS/2 and Windows Metrics
+---------------------------------------
+Size = 96 bytes (expecting 96 bytes)
+  'OS/2' version:           2
+  xAvgCharWidth:            949
+  usWeightClass:            400
+  usWidthClass:             5
+  fsType:                   0x0008
+  ySubscriptXSize:          1434
+  ySubscriptYSize:          1331
+  ySubscriptXOffset:        0
+  ySubscriptYOffset:        285
+  ySuperscriptXSize:        1434
+  ySuperscriptYSize:        1331
+  ySuperscriptXOffset:      0
+  ySuperscriptYOffset:      700
+  yStrikeoutSize:           102
+  yStrikeoutPosition:       627
+  sFamilyClass:             8    subclass = 5
+  PANOSE:                   2 11  5  3  2  0  0  2  0  4
+  Unicode Range 1( Bits 0 - 31 ): 9000002F
+  Unicode Range 2( Bits 32- 63 ): 29D77CFB
+  Unicode Range 3( Bits 64- 95 ): 00000012
+  Unicode Range 4( Bits 96-127 ): 00000000
+  achVendID:                'MS  '
+  fsSelection:              0x0040
+  usFirstCharIndex:         0x0000
+  usLastCharIndex:          0xFFFD
+  sTypoAscender:            1638
+  sTypoDescender:           -410
+  sTypoLineGap:             0
+  usWinAscent:              2229
+  usWinDescent:             495
+  CodePage Range 1( Bits 0 - 31 ): 00080001
+  CodePage Range 2( Bits 32- 63 ): 00000000
+  sxHeight:                 1050
+  sCapHeight:               1471
+  usDefaultChar:            0x0000
+  usBreakChar:              0x0020
+  usMaxLookups:             3
